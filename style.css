@@ -32,12 +32,13 @@ li{
     color: #555;
     position: relative;
     border-bottom: 1px solid #e6e6e6;
-    height: 46px;
+    height: 46px;  
 }
 
 li:nth-child(even){
     padding: 20px;
     background: #f2f2f2;
+    
 }
 
 li span{
@@ -51,6 +52,7 @@ li span:nth-child(2){
 }
 
 li div{
+   
     position: absolute;
     top: 0;
     right: 0px;
